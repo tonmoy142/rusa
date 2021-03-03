@@ -143,7 +143,7 @@
 				<div class="col-lg-6">
 					<div class="singel-testimonial">
 						<div class="testimonial-thum">
-							<img src="images/testimonial/t-1.jpg" alt="Testimonial">
+							<img src="images/thumb.png" width="100px" alt="Testimonial">
 							<div class="quote">
 								<i class="fa fa-quote-right"></i>
 							</div>
@@ -161,7 +161,7 @@
 				<div class="col-lg-6">
 					<div class="singel-testimonial">
 						<div class="testimonial-thum">
-							<img src="images/testimonial/t-2.jpg" alt="Testimonial">
+						<img src="images/thumb.png" width="100px" alt="Testimonial">
 							<div class="quote">
 								<i class="fa fa-quote-right"></i>
 							</div>
@@ -179,7 +179,7 @@
 				<div class="col-lg-6">
 					<div class="singel-testimonial">
 						<div class="testimonial-thum">
-							<img src="images/testimonial/t-3.jpg" alt="Testimonial">
+						<img src="images/thumb.png" width="100px" alt="Testimonial">
 							<div class="quote">
 								<i class="fa fa-quote-right"></i>
 							</div>
