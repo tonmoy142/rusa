@@ -29,12 +29,19 @@
 
                                 <div class="col-md-12 mt-20">
                                     <div class="form-group">
-                                        </label>
                                         <div class="form-check-inline">
                                             <label class="form-check-label">
                                                 <input name="remember" type="checkbox" class="form-check-input"
                                                     value="remember">Remember Me
                                             </label>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-12 mt-20">
+                                    <div class="form-group">
+                                        <div class="form-check-inline">
+                                            <a href="#"><b>? Forget Your Password</b></a>
                                         </div>
                                     </div>
                                 </div>
