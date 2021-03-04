@@ -165,6 +165,7 @@
                           </div>
                         </div>
 
+ 
                         <div class="col-md-12">
                           <div class="form-group singel-form">
                             <select name="subject" id="subject"
@@ -343,10 +344,7 @@
                   <p><b>Rajshahi University Branch, Rajshahi</b></p>
                 </div>
                 <!-- contact address -->
-                <div class="map mt-30">
-                  <div id="contact-map"></div>
-                </div>
-                <!-- map -->
+
               </div>
             </div>
             <!-- row -->

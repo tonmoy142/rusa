@@ -93,14 +93,17 @@
 	<a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
 	<!--====== BACK TO TP PART ENDS ======-->
 
-	<script src="js/vendor/modernizr-3.6.0.min.js"></script>
-	<script src="js/vendor/jquery-1.12.4.min.js"></script>
-	<script src="js/bootstrap.min.js"></script>
-	<script src="js/slick.min.js"></script>
-	<script src="js/jquery.magnific-popup.min.js"></script>
-	<script src="js/ajax-contact.js"></script>
-	<script src="js/main.js"></script>
+    <script src="js/vendor/modernizr-3.6.0.min.js"></script>
+    <script src="js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/slick.min.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/jquery.nice-select.min.js"></script>
+    <script src="js/jquery.nice-number.min.js"></script>
+    <script src="js/jquery.counterup.min.js"></script>
 	<script src="js/fancybox.min.js"></script>
+	<script src="js/main.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/js/select2.min.js"></script>
 
 </body>
 

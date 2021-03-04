@@ -345,13 +345,6 @@ $(function () {
   });
 
 
-
-  //===== Nice Select
-
-  $('select').niceSelect();
-
-
-
   //===== Count Down
 
   $('[data-countdown]').each(function () {

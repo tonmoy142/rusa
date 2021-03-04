@@ -15,6 +15,7 @@
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/responsive.css">
 	<link rel="stylesheet" href="css/fancybox.css" />
+	
 </head>
 
 <body>
