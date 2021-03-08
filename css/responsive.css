@@ -866,8 +866,11 @@
 @media only screen and (max-width: 575.98px) {
 
 	.table td, .table th {
-		padding: 		5px!important;
+		padding:5px!important;
 	}
+    .table-responsive {
+        display: block!important;
+    }
 
     .main-btn {
         padding: 0 20px;
@@ -910,7 +913,7 @@
         background: none;
         border: 0;
         top: 5px;
-        right: 0;
+        right: -30px;
         cursor: pointer;
         display: block;
     }

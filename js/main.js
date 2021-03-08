@@ -93,7 +93,7 @@ $(function () {
       prevArrow: '<span class="prev"><i class="fa fa-angle-left"></i></span>',
       nextArrow: '<span class="next"><i class="fa fa-angle-right"></i></span>',
       responsive: [
-        { breakpoint: 767, settings: { dots: false, arrows: false } }
+        { breakpoint: 767, settings: { dots: false, arrows: true , autoplay: true} }
       ]
     });
 

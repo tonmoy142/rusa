@@ -87,7 +87,10 @@
 										<a href="member-area.php">Member Area</a>
 									</li>
 									<li class="nav-item">
-										<a href="#">Donation for RUSA</a>
+										<a href="donation.php">Donation for RUSA</a>
+										<ul class="sub-menu">
+                                            <li><a href="donar-list.php">Donar List</a></li>
+                                        </ul>
 									</li>
 									<li class="nav-item">
 										<a href="gallery.php">Gallary</a>
