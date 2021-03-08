@@ -851,15 +851,6 @@
         padding-bottom: 70px;
     }
 
-
-
-
-
-
-
-
-
-
 }
 
 /* Large Mobile :480px. */
@@ -870,6 +861,12 @@
 	}
     .table-responsive {
         display: block!important;
+    }
+    .single-slider {
+        height: 500px!important;
+    }
+    .slider-cont {
+        margin-top: -40px!important;
     }
 
     .main-btn {
