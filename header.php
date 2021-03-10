@@ -76,9 +76,9 @@
 									</li>
 									<li class="nav-item">
 										<a href="committee.php">Executive Committee</a>
-										<ul class="sub-menu">
+										<!-- <ul class="sub-menu">
                                             <li><a href="member-list.php">Member List</a></li>
-                                        </ul>
+                                        </ul> -->
 									</li>
 									<li class="nav-item">
 										<a href="memorandum.php">Memorandum</a>
